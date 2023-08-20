@@ -5,10 +5,12 @@
 #place 
 #city
 
+![Riverbed.png](/img/user/Media/Riverbed.png)
+
 
 Continent: [[Places/Neugarden\|Neugarden]]
 
-Gebouwen: [[Settings/Tavern the golden Goose\|Tavern the golden Goose]]
+Buildings: [[Settings/Fleur de Lis\|Fleur de Lis]]
 
 NPCs
 
